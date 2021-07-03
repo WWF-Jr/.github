@@ -1,6 +1,6 @@
 # WWF Jr.
 ## About Us and Our Initiative
-We are a team of young students from India and Canada who wish to spread awareness about our wonderful nature and inform people about the threats our human activities cause on it, disrupting the balance of nature. Our activities are harming many animals and endangering many species of plants too, and we believe that we can stop, or at least reduce such reckless treatment with animals by educating the younger generations about these animal and plant species through an interactive knowledgebase, and tell them how some terrible activites of our fellow humans have degraded their living conditions. We aim to use 3D technology and the web for sharing our message with the youth, and making the world a better place for everyone, be it either humans or the wildlife.
+We are a team of young students from India and Canada who wish to spread awareness about nature and the human activities that harm it. We aim to educate younger generations through an interactive knowledgebase by using 3D technology and the web to show a diverse range of animal and plant species, and how our actions affect the environment, all across the Earth.
 
 ## About the Team Members
 1. [**Nalin-2005**](https://github.com/Nalin-2005):
