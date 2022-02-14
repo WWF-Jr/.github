@@ -1,6 +1,6 @@
 # WWF Jr.  
 <p align="center">
-<img src="https://github.com/WWF-Jr/about/raw/main/Logo.png" height=500 width=500 alt="Logo">
+<img src="https://github.com/WWF-Jr/.github/raw/main/profile/Logo.png" height=500 width=500 alt="Logo">
 </p>    
 
 ## About Us and Our Initiative
