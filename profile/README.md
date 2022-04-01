@@ -7,7 +7,7 @@
 We are a team of young students from India and Canada who wish to spread awareness about nature and the human activities that harm it. We aim to educate younger generations through an interactive knowledgebase by using 3D technology and the web to show a diverse range of animal and plant species, and how our actions affect the environment, all across the Earth.
 
 ## About the Team Members
-1. [**Nalin-2005**](https://github.com/Nalin-2005):
+1. [**Nalin-Angrish**](https://github.com/Nalin-Angrish):
   - **Name**: Nalin Angrish
   - **School**: Mount Carmel School, Chandigarh, India
   - **Grade**: 11th (As of July 2021)
